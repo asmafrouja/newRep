@@ -1,1 +1,1 @@
-print("asma")
+print("asma frouja")
